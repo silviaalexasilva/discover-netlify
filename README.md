@@ -8,4 +8,4 @@
 
 ## Deployment
 
-* Link to the website deployed on Netlify : [https://trusting-einstein-b317a2.netlify.com/]()
+* Link to the website deployed on Netlify : [https://trusting-einstein-b317a2.netlify.com/]
